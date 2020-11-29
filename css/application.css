@@ -1317,6 +1317,11 @@ button {
     .title {
       padding-left: 1em; } }
 
+.headerBackground-plain {
+  color: black;
+  margin: 1em;
+}
+
 .headerBackground, .projectHeaderBackground {
   padding: 5em 1em; }
   @media screen and (min-width: 43.75em) {
