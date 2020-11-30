@@ -1401,7 +1401,7 @@ button {
 @media screen and (min-width: 62.5em) {
   .inner {
     display: inherit;
-    background: url(https://hbfiles.blob.core.windows.net/images/industry/81085_image.png) repeat 0 0;
+    background: url("../img/fintech.jpg") repeat 0 0;
     background-size: 500px;
     width: 300%;
     height: 300%; } }
