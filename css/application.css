@@ -1317,11 +1317,6 @@ button {
     .title {
       padding-left: 1em; } }
 
-.headerBackground-plain {
-  color: black;
-  margin: 1em;
-}
-
 .headerBackground, .projectHeaderBackground {
   padding: 5em 1em; }
   @media screen and (min-width: 43.75em) {
@@ -1330,13 +1325,13 @@ button {
   @media screen and (min-width: 48em) {
     .headerBackground, .projectHeaderBackground {
       padding: 5em 4em;
-      cursor: url("http://www.cursor.cc/cursor/981/29/cursor.png"), auto; } }
+      cursor: url("../img/money.png"), auto; } }
   @media screen and (min-width: 62.5em) {
     .headerBackground, .projectHeaderBackground {
       padding: 10em; } }
   @media screen and (max-width: 62.5em) {
     .headerBackground, .projectHeaderBackground {
-      background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/stars.jpg"); } }
+      background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/fintech.jpg"); } }
 
 .description {
   color: #737373;
@@ -1406,7 +1401,7 @@ button {
 @media screen and (min-width: 62.5em) {
   .inner {
     display: inherit;
-    background: url(http://wallpapercave.com/wp/xX2GRj6.gif) repeat 0 0;
+    background: url(https://hbfiles.blob.core.windows.net/images/industry/81085_image.png) repeat 0 0;
     background-size: 500px;
     width: 300%;
     height: 300%; } }
