@@ -1,3 +1,1 @@
-# Test file
-
-Going to experiment with setting up a redirect file.
+<meta http-equiv="refresh" content="0; URL='http://google.com'" />
